@@ -11,3 +11,7 @@
 ### [YAML Schema]
 
 ##### [Variable Definition](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/variables?view=azure-pipelines)
+
+## Tasks
+
+[Tasks Reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
