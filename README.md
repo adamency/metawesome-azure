@@ -24,3 +24,5 @@
 ## Approvals & Checks
 
 #### [Main Doc](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/approvals?view=azure-devops&tabs=check-pass)
+
+##### [Deployment Approvals](https://www.programmingwithwolfgang.com/deployment-approvals-yaml-pipeline/)
