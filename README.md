@@ -19,3 +19,8 @@
 ## Tasks
 
 [Tasks Reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
+
+
+## Approvals & Checks
+
+#### [Main Doc](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/approvals?view=azure-devops&tabs=check-pass)
